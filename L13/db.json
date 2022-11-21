@@ -1,0 +1,19 @@
+{
+    "assignments": [
+        { 
+            "id": 1, 
+            "project": "Study for quiz", 
+            "completed": false
+        },
+        { 
+            "id": 2, 
+            "project": "Write essay", 
+            "completed": false
+        },
+        { 
+            "id": 3, 
+            "project": "Create test notes", 
+            "completed": false
+        }
+    ]
+}

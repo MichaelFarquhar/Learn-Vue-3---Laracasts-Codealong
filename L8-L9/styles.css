@@ -1,0 +1,16 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    display: grid;
+    place-items: center;
+}
+
+.complete {
+    text-decoration: line-through;
+}
+
+label:hover {
+    cursor: pointer;
+}
